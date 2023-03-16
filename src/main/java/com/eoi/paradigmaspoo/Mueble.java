@@ -1,5 +1,6 @@
 package com.eoi.paradigmaspoo;
 
+import com.eoi.paradigmaspoo.ComponenteDeMueble;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

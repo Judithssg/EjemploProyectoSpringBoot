@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
  * The type Mesa.
  */
 @Component
-public class Mesa extends Mueble {
+public class Mesa extends com.eoi.paradigmasPOO.Mueble {
 
     private ComponenteDeMueble pata1;
     private ComponenteDeMueble pata2;

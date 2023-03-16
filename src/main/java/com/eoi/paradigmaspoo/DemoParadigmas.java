@@ -1,6 +1,8 @@
 package com.eoi.paradigmaspoo;
 
 
+import com.eoi.paradigmaspoo.ComponenteDeMueble;
+
 /**
  * The type Demo paradigmas.
  */
